@@ -1,5 +1,4 @@
 import React from 'react'
-import { Input } from "@material-tailwind/react";
 
 function Navbar(){
     return(
